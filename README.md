@@ -12,3 +12,4 @@
 - Math course
 - Do some projects
 - Do some [codedigger](https://codedigger.tech/levelwise/practice)
+- Principle and Techniques of Combinotorics [cing chag chong]
